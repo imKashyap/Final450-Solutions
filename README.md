@@ -6,7 +6,7 @@ This repository contains solutions to all 450 questions prepared by _Love Babbar
 ## Array
 |Sl. No  | Question| Solution |
 |--|--|--|
-|01  |  [# Write a program to reverse an array or string](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)|[ReverseArray.java](./array/ReverseArray.java) |
+|01  |  [Write a program to reverse an array or string](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)|[ReverseArray.java](./array/ReverseArray.java) |
 
 
   
@@ -14,9 +14,9 @@ This repository contains solutions to all 450 questions prepared by _Love Babbar
 ## Matrix
 |Sl. No  | Question| Solution |
 |--|--|--|
-|01  |  [# Write a program to reverse an array or string](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)|[SpiralTraversal.java](./matrix/SpiralTraversal.java) |
+|01  |  [Given a matrix mat[][] of size M*N. Traverse and print the matrix in spiral form.](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)|[SpiralTraversal.java](./matrix/SpiralTraversal.java) |
 
 ## String
 |Sl. No  | Question| Solution |
 |--|--|--|
-|01  |  [# Write a program to reverse a string](https://leetcode.com/problems/reverse-string/)|[ReverseString.java](./string/ReverseArray.java) |
+|01  |  [Write a program to reverse a string](https://leetcode.com/problems/reverse-string/)|[ReverseString.java](./string/ReverseArray.java) |
