@@ -19,4 +19,4 @@ This repository contains solutions to all 450 questions prepared by _Love Babbar
 ## String
 |Sl. No  | Question| Solution |
 |--|--|--|
-|01  |  [Write a program to reverse a string](https://leetcode.com/problems/reverse-string/)|[ReverseString.java](./string/ReverseArray.java) |
+|01  |  [Write a program to reverse a string](https://leetcode.com/problems/reverse-string/)|[ReverseString.java](./string/ReverseString.java) |
