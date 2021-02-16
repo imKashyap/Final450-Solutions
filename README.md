@@ -7,7 +7,7 @@ This repository contains solutions to all 450 questions prepared by _Love Babbar
 |Sl. No  | Question| Solution |
 |--|--|--|
 |01  |  [Reverse an array or string](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)|[ReverseArray.java](./array/ReverseArray.java) |
-|02 |  [Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)|[ReverseArray.java](./array/GetMinMax.java) |
+|02 |  [Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)|[GetMinMax.java](./array/GetMinMax.java) |
 
 
   
