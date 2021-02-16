@@ -6,8 +6,8 @@ This repository contains solutions to all 450 questions prepared by _Love Babbar
 ## Array
 |Sl. No  | Question| Solution |
 |--|--|--|
-|01  |  [Write a program to reverse an array or string](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)|[ReverseArray.java](./array/ReverseArray.java) |
-|02 |  [Write a program to find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)|[ReverseArray.java](./array/GetMinMax.java) |
+|01  |  [Reverse an array or string](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)|[ReverseArray.java](./array/ReverseArray.java) |
+|02 |  [Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)|[ReverseArray.java](./array/GetMinMax.java) |
 
 
   
@@ -20,4 +20,4 @@ This repository contains solutions to all 450 questions prepared by _Love Babbar
 ## String
 |Sl. No  | Question| Solution |
 |--|--|--|
-|01  |  [Write a program to reverse a string](https://leetcode.com/problems/reverse-string/)|[ReverseString.java](./string/ReverseString.java) |
+|01  |  [Reverse a string](https://leetcode.com/problems/reverse-string/)|[ReverseString.java](./string/ReverseString.java) |
