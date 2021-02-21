@@ -1,5 +1,3 @@
-package final450.array;
-
 import java.util.Scanner;
 
 public class ReverseArray {
