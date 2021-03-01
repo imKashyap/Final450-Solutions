@@ -24,3 +24,4 @@ This repository contains solutions to all 450 questions prepared by _Love Babbar
 |01  |  [Reverse a string](https://leetcode.com/problems/reverse-string/)|[ReverseString.java](./string/ReverseString.java) |
 |02  |  [Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)|[Palindrome.java](./string/Palindrome.java) |
 |03  |  [Find Duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)|[CountDuplicates.java](./string/CountDuplicates.java) |
+|04  |  [Check whether a string is a valid shuffle of two strings or not](https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings)|[InterleavingOfCommon.java](./string/InterleavingOfCommon.java) |
