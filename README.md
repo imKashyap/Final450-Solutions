@@ -1,4 +1,4 @@
-# Final 450 Solutions
+# 450 DSA Cracker Solutions
 
 This repository contains solutions to all 450 questions prepared by _Love Babbar_ in his competitve coding sheet solved in **Java**. Download the question sheet [here](https://github.com/imKashyap/Final450/blob/main/FINAL450.xlsx).
 
