@@ -1,4 +1,8 @@
 # 450 DSA Cracker Solutions
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/imkashyap/Final450-Solutions)](https://github.com/imkashyap/Competitive-Programming/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/imkashyap/Final450-Solutions)](https://github.com/imkashyap/Competitive-Programming/archive/master.zip)
+
 * 450 DSA Cracker is a comprehensive list of 400 + topic wise questions to build your confidence in data structure and algorithms and prepare yourself for placements.
 * This WIP repository will contain solutions to all 450 questions prepared by _Love Babbar_ in his competitve coding sheet solved in **Java**. Download the question sheet [here](https://github.com/imKashyap/Final450/blob/main/FINAL450.xlsx).
 
