@@ -1,3 +1,5 @@
+package array;
+
 import java.io.*;
 class KthMin {
 	public static void main(String[] args)throws IOException{

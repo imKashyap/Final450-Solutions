@@ -1,3 +1,5 @@
+package array;
+
 import java.io.*;
 
 public class GetMinMax {
