@@ -24,6 +24,7 @@
 |12 |  [Merge two sorted arrays without using Extra Space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)|[MergeSortedWithoutExtraSpace.java](./array/MergeSortedWithoutExtraSpace.java) |
 |13 |  [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)|[MaxSumSubarray.java](./array/MaxSumSubarray.java) |
 |14 |  [Merge Overlapping Intervals](https://leetcode.com/problems/merge-intervals/) |[MergeIntervals.java](./array/MergeIntervals.java) |
+|15 |  [Next Permutation](https://leetcode.com/problems/next-permutation/)|[NextPermutation.java](./array/NextPermutation.java)|
 
 
 
