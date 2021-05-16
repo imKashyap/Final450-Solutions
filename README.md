@@ -19,8 +19,9 @@
 |07 |  [Cyclically Rotate an array](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)|[ArrayRotation.java](./array/ArrayRotation.java) |
 |08 |  [Find Largest sum contiguous Subarray](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)|[MaxSumSubarray.java](./array/MaxSumSubarray.java) |
 |09 |  [Minimize the maximum difference between Heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)|[MinimizeHeightsDiff.java](./array/MinimizeHeightsDiff.java]) |
-|10 |  []
+|10 |  [Minimum no. of Jumps to reach the end of the array](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1) |[MinimumJumps.java](./array/MinimumJumps.java)
 |11 |  [Find duplicate in an array of N+1 integers](https://leetcode.com/problems/find-the-duplicate-number/)|[FindDuplicate.java](./array/FindDuplicate.java) |
+|12 |  [Merge two sorted arrays without using Extra Space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)|[MergeSortedWithoutExtraSpace.java](./array/MergeSortedWithoutExtraSpace.java) |
 |13 |  [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)|[MaxSumSubarray.java](./array/MaxSumSubarray.java) |
 |14 |  [Merge Overlapping Intervals](https://leetcode.com/problems/merge-intervals/) |[MergeIntervals.java](./array/MergeIntervals.java) |
 
