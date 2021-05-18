@@ -25,7 +25,7 @@
 |13 |  [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)|[MaxSumSubarray.java](./array/MaxSumSubarray.java) |
 |14 |  [Merge Overlapping Intervals](https://leetcode.com/problems/merge-intervals/) |[MergeIntervals.java](./array/MergeIntervals.java) |
 |15 |  [Next Permutation](https://leetcode.com/problems/next-permutation/)|[NextPermutation.java](./array/NextPermutation.java)|
-
+|16 |  [Count Inversions](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)|[CountInversions.java](./array/CountInversions.java) |
 
 
 ## Matrix
@@ -41,3 +41,8 @@
 |03  |  [Find Duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)|[CountDuplicates.java](./string/CountDuplicates.java) |
 |04  |  [Check whether a string is a valid shuffle of two strings or not](https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings)|[InterleavingOfCommon.java](./string/InterleavingOfCommon.java) |
 |05  |  [Count and Say Problem](https://leetcode.com/problems/count-and-say/)|[CountAndSay.java](./string/CountAndSay.java) |
+
+## Bit Manipulation
+|Sl. No  | Question| Solution |
+|--|--|--|
+|01  |  [Count set bits in an Integer](https://practice.geeksforgeeks.org/problems/set-bits0143/1)|[SetBitsCount.java](./bitMasking/SetBitsCount.java) |
