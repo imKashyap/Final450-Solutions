@@ -45,4 +45,9 @@
 ## Bit Manipulation
 |Sl. No  | Question| Solution |
 |--|--|--|
-|01  |  [Count set bits in an Integer](https://practice.geeksforgeeks.org/problems/set-bits0143/1)|[SetBitsCount.java](./bitMasking/SetBitsCount.java) |
+|01 |  [Count set bits in an Integer](https://practice.geeksforgeeks.org/problems/set-bits0143/1)|[SetBitsCount.java](./bitMasking/SetBitsCount.java) |
+|02 |  [Find the two non-repeating elements in an array of repeating elements](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)|[NonRepeatingNo.java](./bitMasking/NonRepeatingNo.java)|
+|03 |  [Count number of bits to be flipped to convert A to B](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1)|[BitDifference.java](./bitMasking/BitDifference.java) |
+|04 |  [Count total set bits in all numbers from 1 to n](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)|[SetBitsUptoN.java](./bitMasking/SetBitsUptoN.java)|
+|05 |  [Program to find whether is no. is Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1)|[PowerOf2.java](./bitMasking/PowerOf2.java)|
+|06 |  [Find position of the only set bit](https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1)|[PositionOfSetBit.java](./bitMasking/PositionOfSetBit.java)|
