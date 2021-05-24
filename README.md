@@ -51,3 +51,5 @@
 |04 |  [Count total set bits in all numbers from 1 to n](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)|[SetBitsUptoN.java](./bitMasking/SetBitsUptoN.java)|
 |05 |  [Program to find whether is no. is Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1)|[PowerOf2.java](./bitMasking/PowerOf2.java)|
 |06 |  [Find position of the only set bit](https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1)|[PositionOfSetBit.java](./bitMasking/PositionOfSetBit.java)|
+|07 |  [Copy set bits in a range](https://practice.geeksforgeeks.org/problems/copy-set-bits-in-range0623/1)|[CopySetBitsRange.java](./bitMasking/CopySetBitsRange.java)|
+|08 |  [Divide two integers without using multiplication, division and mod operator](https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/)|[DivideWithoutOperator.java](./bitMasking/DivideWithoutOperator.java)
