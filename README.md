@@ -26,7 +26,9 @@
 |14 |  [Merge Overlapping Intervals](https://leetcode.com/problems/merge-intervals/) |[MergeIntervals.java](./array/MergeIntervals.java) |
 |15 |  [Next Permutation](https://leetcode.com/problems/next-permutation/)|[NextPermutation.java](./array/NextPermutation.java)|
 |16 |  [Count Inversions](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)|[CountInversions.java](./array/CountInversions.java) |
-
+|17 |  [Best time to buy & sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[StockBuySell.java](./array/StockBuySell.java) |
+|22 |  [Factorial of large numbers](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0)|[LargeFactorial.java](./array/LargeFactorial.java) |
+|29 |  [Trapping Rainwater Problem](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)|[TrappingRainwater.java](./array/TrappingRainwater.java) |
 
 ## Matrix
 |Sl. No  | Question| Solution |
