@@ -18,7 +18,7 @@
 |06 |  [Find the Union & Intersection of two Sorted Arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1)|[UnionIntersection.java](./array/UnionIntersection.java)
 |07 |  [Cyclically Rotate an array](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)|[ArrayRotation.java](./array/ArrayRotation.java) |
 |08 |  [Find Largest sum contiguous Subarray](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)|[MaxSumSubarray.java](./array/MaxSumSubarray.java) |
-|09 |  [Minimize the maximum difference between Heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)|[MinimizeHeightsDiff.java](./array/MinimizeHeightsDiff.java]) |
+|09 |  [Minimize the maximum difference between Heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)|[MinimizeHeightsDiff.java](./array/MinimizeHeightsDiff.java) |
 |10 |  [Minimum no. of Jumps to reach the end of the array](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1) |[MinimumJumps.java](./array/MinimumJumps.java)
 |11 |  [Find duplicate in an array of N+1 integers](https://leetcode.com/problems/find-the-duplicate-number/)|[FindDuplicate.java](./array/FindDuplicate.java) |
 |12 |  [Merge two sorted arrays without using Extra Space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)|[MergeSortedWithoutExtraSpace.java](./array/MergeSortedWithoutExtraSpace.java) |
@@ -27,6 +27,7 @@
 |15 |  [Next Permutation](https://leetcode.com/problems/next-permutation/)|[NextPermutation.java](./array/NextPermutation.java)|
 |16 |  [Count Inversions](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)|[CountInversions.java](./array/CountInversions.java) |
 |17 |  [Best time to buy & sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[StockBuySell.java](./array/StockBuySell.java) |
+|21 |  [Find if there is any subarray with sum equal to 0](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1)|[SubarraySumZero.java](./array/SubarraySumZero.java) |
 |22 |  [Factorial of large numbers](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0)|[LargeFactorial.java](./array/LargeFactorial.java) |
 |29 |  [Trapping Rainwater Problem](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)|[TrappingRainwater.java](./array/TrappingRainwater.java) |
 
