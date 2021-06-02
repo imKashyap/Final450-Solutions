@@ -35,6 +35,7 @@
 |Sl. No  | Question| Solution |
 |--|--|--|
 |01  |  [Given a matrix mat[][] of size M*N. Traverse and print the matrix in spiral form.](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)|[SpiralTraversal.java](./matrix/SpiralTraversal.java) |
+|02  |  [Search an element in a matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[SearchEle.java](./matrix/SearchEle.java) |
 
 ## String
 |Sl. No  | Question| Solution |
